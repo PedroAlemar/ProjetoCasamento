@@ -1,6 +1,6 @@
 # 🍰 ProjetoCasamento  
 
-O **ProjetoCasamento** é um site desenvolvido em **React** com **Tailwind CSS**, criado em parceria por **Pedro Augusto** e **[Nome do colega]**, com o objetivo de apresentar a **turma de Culinária do SENAC** em um evento temático de casamento.  
+O **ProjetoCasamento** é um site desenvolvido em **React** com **Tailwind CSS**, criado em parceria por **Pedro Augusto** e **[Samuel Henrique]**, com o objetivo de apresentar a **turma de Culinária do SENAC** em um evento temático de casamento.  
 
 O projeto buscou unir **design moderno**, **animações suaves** e **responsividade**, aplicando na prática diversos conceitos de **desenvolvimento front-end moderno**.
 
